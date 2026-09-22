@@ -24,4 +24,5 @@ However, for TL;DR:
 *Note: Website/Docs coming soon (Source based)*
 
 *PS: The logo is just an average aperture camera, not affiliated with Valve Corporation*
+
 *PS (Second): Join the discord server for any questions, there is **no** Linkedin, Slack or whatever*
