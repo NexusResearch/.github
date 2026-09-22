@@ -1,5 +1,24 @@
-# Hello There!
+# Welcome 
 
-Aperture Nexus is a non-profit organization focusing on CyberSecurity Software/Web development, Homebrew, Game Modding with a strong emphasis on Privacy and Security.
+```
+   _  __                   ___                           __ 
+  / |/ /____ ____ _____   / _ \___ ___ ___ ___ _________/ / 
+ /    / -_) \ / // (_-<  / , _/ -_|_-</ -_) _ `/ __/ __/ _ \
+/_/|_/\__/_\_\\_,_/___/ /_/|_|\__/___/\__/\_,_/_/  \__/_//_/
 
-Our mission? Free software to the public for anyone to use, whether that is a student or a large company 
+```
+
+Nexus Research (Or just Nexus) is a non-profit organization focusing on Cybersecurity (Both Offensive and Defensive), Modding/Homebrew (including but not limited to Consoles, Games and Software) and Software/Web Development, with a strong emphasis on privacy.  
+
+Our focus is on Free and Open Source software, whether you are a student, educator, university or an enterprise company. We are not limiting our software or forcing age verification on anyone
+
+# Privacy
+
+We would normally write this on the upcoming (maybe) website. 
+
+However, for TL;DR: 
+* We do not track anyone's data (because we do not care about them),
+* Crash reposts are send manually or submitted on forums
+* More will be displayed on the website 
+
+*Note: Website/Docs coming soon (Source based)*
