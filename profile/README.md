@@ -8,7 +8,7 @@
 
 ```
 
-Nexus Research (Or just Nexus) is a non-profit organization focusing on Cybersecurity (Both Offensive and Defensive), Modding/Homebrew (including but not limited to Consoles, Games and Software) and Software/Web Development, with a strong emphasis on privacy.  
+Nexus Research (Or just Nexus) is a non-profit organization focusing on Cybersecurity (Both Offensive and Defensive), Modding/Homebrew (including but not limited to Consoles, Games and Software) and Software/Web Development, with a strong emphasis on privacy. 
 
 Our focus is on Free and Open Source software, whether you are a student, educator, university or an enterprise company. We are not limiting our software or forcing age verification on anyone
 
@@ -22,3 +22,6 @@ However, for TL;DR:
 * More will be displayed on the website 
 
 *Note: Website/Docs coming soon (Source based)*
+
+*PS: The logo is just an average aperture camera, not affiliated with Valve Corporation*
+*PS (Second): Join the discord server for any questions, there is **no** Linkedin, Slack or whatever*
