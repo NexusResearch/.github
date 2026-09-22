@@ -8,7 +8,7 @@
 
 ```
 
-Nexus Research (Or just Nexus) is a non-profit organization focusing on Cybersecurity (Both Offensive and Defensive), Modding/Homebrew (including but not limited to Consoles, Games and Software) and Software/Web Development, with a strong emphasis on privacy. 
+Nexus Research (Or just Nexus) is a community driven non-profit organization focusing on Cybersecurity (Both Offensive and Defensive), Modding/Homebrew (including but not limited to Consoles, Games and Software) and Software/Web Development, with a strong emphasis on privacy. 
 
 Our focus is on Free and Open Source software, whether you are a student, educator, university or an enterprise company. We are not limiting our software or forcing age verification on anyone
 
