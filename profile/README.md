@@ -21,8 +21,8 @@ However, for TL;DR:
 * Crash reposts are send manually or submitted on forums
 * More will be displayed on the website
 
-*Note: Website/Docs coming soon (Source based)*
+*Note: Documentation and website are currently under active development.*
 
 *PS: The logo is just an average aperture camera, not affiliated with Valve Corporation*
 
-*PS (Second): Join the discord server for any questions, there is **no** Linkedin, Slack or whatever*
+*PS (Second): Join the discord server for any questions, there is **no** LinkedIn, Slack or whatever*
